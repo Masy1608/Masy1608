@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##🛠️ Stack & Technologies
+## 🛠️ Stack & Technologies
 
 👨‍💻 Frontend
 
