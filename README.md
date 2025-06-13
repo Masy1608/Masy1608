@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a full project with React + Typescript and NestJS
+- 🌱 I’m currently learning NestJS and Java
+
 🛠️ Stack & Technologies
 
 👨‍💻 Frontend
